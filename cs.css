@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(209, 253, 255) ;
+}
+.anh{
+    width: 90%;
+    height: 160%;
+    position: absolute; top: -30%; 
+}
+.hc{
+    width: 10%;
+    position: absolute; right: 0%;
+}
+.kk{
+    height: 10%;
+    width: 15%;
+    background-color: rgb(87, 119, 113);
+    position: absolute; left: 28%; top: 33%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+    text-decoration: none;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+}
+.kk1{
+    height: 10%;
+    width: 15%;
+    background-color: rgb(87, 119, 113);
+    position: absolute; left: 28%; top: 50%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+    text-decoration: none;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+}
+.kk2{
+    height: 10%;
+    width: 15%;
+    background-color: rgb(87, 119, 113);
+    position: absolute; left: 28%; top: 67%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+    text-decoration: none;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+}
+.kk:hover{
+    width: 30%;
+    Color: blue;
+}
+.kk1:hover{
+    width: 30%;
+    Color: blue;
+}
+.kk2:hover{
+    width: 30%; 
+    Color: blue;
+}
